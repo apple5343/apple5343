@@ -2,6 +2,8 @@
 
 Backend-разработчик на Go, студент 1 курса КФУ в Казани. 
 
+**Telegram**: [@ainursalahiev](https://t.me/ainursalahiev)
+
 ---
 
 ## 🛠 Стек
@@ -39,8 +41,6 @@ Backend-разработчик на Go, студент 1 курса КФУ в К
 
 - **Отборочный этап** — [Promo Code Backend](https://github.com/apple5343/Promo-Code-Backend): backend для системы промокодов
 - **Финальный этап** — [Ad Service](https://github.com/apple5343/ad-service): сервис управления рекламными объявлениями
-
----
 
 ---
 
