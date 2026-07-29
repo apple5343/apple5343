@@ -2,8 +2,6 @@
 
 Backend-разработчик на Go, студент 1 курса КФУ в Казани. 
 
-**Telegram**: [@ainursalahiev](https://t.me/ainursalahiev)
-
 ---
 
 ## 🛠 Стек
